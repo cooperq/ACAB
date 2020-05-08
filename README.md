@@ -1,4 +1,4 @@
-CSAD - Cloud Storage Auditing Device
+ACAB - Another Cloud Auditing Binary
 ====================================
 
 Audit cloud storage buckets for common vulnerabilities
